@@ -1,8 +1,9 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
 		"0": "block/bookshelf",
-		"1": "block/planks_oak",
+		"1": "block/oak_planks",
 		"2": "block/bookshelf_kaima",
 		"3": "block/bookshelf_books",
 		"4": "block/bookshelf_inner",
