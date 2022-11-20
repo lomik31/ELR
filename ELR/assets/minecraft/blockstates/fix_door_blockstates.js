@@ -1,4 +1,4 @@
-const doorMaterial = "acacia";
+const doorMaterial = "crimson";
 const fs = require('fs');
 let name;
 
