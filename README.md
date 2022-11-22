@@ -28,9 +28,32 @@
 - Модели. Много моделей. Модели по сути делают все текстуры объемными. Теперь ваш Майнкрафт станет действительно 3D
 - Светящиеся текстуры. Адские грибочки, лоза, глаза утопленника, командные блоки, редстоун. Все это и многое другое теперь будет светиться! Выглядит нереально круто!!
 - CTM (connected textures) позволяет вашим стеклам, стоящим рядом "склеиваться" в одно большое. В паке вы найдете ctm бревна, стекла, кактус, булыжник и vine (как переводится-то?)
-<details>
-  <summary>Скриншоты</summary>
-Пока нет ибо спешу дать вам рп, но обещаю, что они будут))
+<details><summary>Скриншоты</summary>
+	<details><summary>Блоки</summary>
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.02.21.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.02.52.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.03.26.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.03.35.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.04.34.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.06.17.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.07.42.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.10.29.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.12.18.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.16.09.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.17.29.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.18.55.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.23.05.png)
+	</details>
+	<details><summary>Интерфейсы</summary>
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.17.37.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.17.46.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.18.02.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.18.05.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.19.20.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.19.24.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.19.37.png?raw=true)
+		![](https://github.com/lomik31/ELR/blob/master/screenshots/photo_2022-11-22%2013.37.10.jpeg?raw=true)
+	</details>
 </details>
 
 ## Необходимые требования:
