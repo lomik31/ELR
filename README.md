@@ -77,7 +77,7 @@
 # Скачать / Download
 #### Скачать самую последнюю версию ресурспака
 ### ELR — главный пак
-- [1.19.x](https://github.com/lomik31/ELR/releases/download/ELR-v1.0/ELR_1.19.x.zip)
+- [1.19-1.19.2](https://github.com/lomik31/ELR/releases/download/ELR-v1.0/ELR_1.19-1.19.2.zip)
 - [1.18.x](https://github.com/lomik31/ELR/releases/download/ELR-v1.0/ELR_1.18.x.zip)
 ### ELR GUI addon — дополнение к вашему ресурспаку. Содержит в себе только обновленные элементы интерфейса.
 - [1.19.x](https://github.com/lomik31/ELR/releases/download/gui-v1.1/ELR_addon_v1.1_1.19.x.zip)
