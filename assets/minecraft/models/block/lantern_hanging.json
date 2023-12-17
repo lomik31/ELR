@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/lantern",
 		"lantern": "block/lantern"
 	},
-	"ambientocclusion": false,
 	"elements": [
 		{
 			"from": [5, 1, 5],
@@ -28,26 +28,6 @@
 				"west": {"uv": [1, 0, 5, 2], "texture": "#lantern"},
 				"up": {"uv": [1, 10, 5, 14], "texture": "#lantern"},
 				"down": {"uv": [1, 10, 5, 14], "texture": "#lantern"}
-			}
-		},
-		{
-			"from": [6.5, 11, 8],
-			"to": [9.5, 15, 8],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
-			"faces": {
-				"north": {"uv": [14, 1, 11, 5], "texture": "#lantern"},
-				"south": {"uv": [11, 1, 14, 5], "texture": "#lantern"}
-			}
-		},
-		{
-			"from": [8, 10, 6.5],
-			"to": [8, 16, 9.5],
-			"shade": false,
-			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
-			"faces": {
-				"east": {"uv": [11, 6, 14, 12], "texture": "#lantern"},
-				"west": {"uv": [14, 6, 11, 12], "texture": "#lantern"}
 			}
 		},
 		{
@@ -327,25 +307,23 @@
 	"groups": [
 		0,
 		1,
-		2,
-		3,
 		{
 			"name": "group",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [4, 5, 6, 7, 8, 9, 10]
+			"children": [2, 3, 4, 5, 6, 7, 8]
 		},
 		{
 			"name": "group",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [11, 12, 13, 14, 15, 16, 17, 18]
+			"children": [9, 10, 11, 12, 13, 14, 15, 16]
 		},
 		{
 			"name": "group",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [19, 20, 21, 22, 23, 24, 25]
+			"children": [17, 18, 19, 20, 21, 22, 23]
 		}
 	]
 }
