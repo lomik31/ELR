@@ -2,10 +2,10 @@
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
 "ambientocclusion": false,
     "textures": {
-        "particle": "block/iron_bars_full",
-        "0": "block/iron_bars",
-        "1": "block/bars_top",
-        "2": "block/bars_horizontal"
+        "particle": "blocks/iron_bars_full",
+        "0": "blocks/iron_bars",
+        "1": "blocks/bars_top",
+        "2": "blocks/bars_horizontal"
     },
     "elements": [
         {

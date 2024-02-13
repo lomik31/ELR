@@ -1,10 +1,11 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/iron_door_top",
-		"1": "block/door_krep",
-		"particle": "block/iron_door_bottom"
+		"0": "blocks/door_iron_upper",
+		"1": "blocks/door_door_krep",
+		"particle": "blocks/door_iron_lower"
 	},
 	"elements": [
 		{

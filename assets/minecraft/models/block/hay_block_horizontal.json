@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": true,
 	"textures": {
-		"0": "block/hay_block_bottom",
-		"1": "block/hay_block_side",
-		"2": "block/hay_block_top",
-		"particle": "block/hay_block_bottom"
+		"0": "blocks/hay_block_bottom",
+		"1": "blocks/hay_block_side",
+		"2": "blocks/hay_block_top",
+		"particle": "blocks/hay_block_bottom"
 	},
 	"elements": [
 		{

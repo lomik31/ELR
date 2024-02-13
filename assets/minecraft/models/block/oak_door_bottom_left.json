@@ -3,9 +3,9 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/oak_door_bottom",
-		"1": "block/door_krep",
-		"particle": "block/oak_door_bottom"
+		"0": "blocks/door_wood_lower",
+		"1": "blocks/door_door_krep",
+		"particle": "blocks/door_wood_lower"
 	},
 	"elements": [
 		{

@@ -1,12 +1,13 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/observer_side",
-		"1": "block/furnace_top",
-		"2": "block/stone_slab_top",
-		"3": "block/nether_wart_block",
-		"particle": "block/furnace_side"
+		"0": "blocks/observer_side",
+		"1": "blocks/furnace_top",
+		"2": "blocks/stone_slab_top",
+		"3": "blocks/nether_wart_block",
+		"particle": "blocks/furnace_side"
 	},
 	"elements": [
 		{

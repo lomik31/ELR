@@ -1,9 +1,10 @@
 {
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/jungle_door_top",
-		"1": "block/door_krep",
-		"particle": "block/jungle_door_bottom"
+		"0": "blocks/door_jungle_upper",
+		"1": "blocks/door_door_krep",
+		"particle": "blocks/door_jungle_lower"
 	},
 	"elements": [
 		{
@@ -71,7 +72,7 @@
 				"north": {"uv": [12.5, 14.5, 13, 15.5], "texture": "#1"},
 				"east": {"uv": [4, 14.5, 1, 15.5], "texture": "#1"},
 				"south": {"uv": [3, 14.5, 3.5, 15.5], "texture": "#1"},
-				"west": {"uv": [12, 14.5, 15, 15.5], "texture": "#2"},
+				"west": {"uv": [12, 14.5, 15, 15.5], "texture": "#1"},
 				"up": {"uv": [3, 12, 3.5, 15], "texture": "#1"},
 				"down": {"uv": [3, 1, 3.5, 4], "texture": "#1"}
 			}
@@ -82,7 +83,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, -3]},
 			"faces": {
 				"north": {"uv": [2, 1.5, 2.5, 2.5], "texture": "#1"},
-				"east": {"uv": [6, 1.5, 3, 2.5], "texture": "#2"},
+				"east": {"uv": [6, 1.5, 3, 2.5], "texture": "#1"},
 				"south": {"uv": [2, 2, 2.5, 3.5], "texture": "#1"},
 				"west": {"uv": [2, 1.5, 5, 2.5], "texture": "#1"},
 				"up": {"uv": [3, 1, 3.5, 4], "texture": "#1"},

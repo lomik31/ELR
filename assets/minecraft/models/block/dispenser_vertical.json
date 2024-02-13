@@ -1,11 +1,12 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/furnace_side",
-		"1": "block/stone_slab_top",
-		"2": "block/furnace_top",
-		"particle": "block/furnace_side"
+		"0": "blocks/furnace_side",
+		"1": "blocks/stone_slab_top",
+		"2": "blocks/furnace_top",
+		"particle": "blocks/furnace_side"
 	},
 	"elements": [
 		{

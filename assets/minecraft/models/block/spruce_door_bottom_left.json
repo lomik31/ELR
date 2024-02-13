@@ -1,9 +1,10 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"0": "block/spruce_door_krep",
-		"1": "block/spruce_door_bottom",
-		"particle": "block/spruce_door_bottom"
+		"0": "blocks/door_spruce_door_krep",
+		"1": "blocks/door_spruce_lower",
+		"particle": "blocks/door_spruce_lower"
 	},
 	"elements": [
 		{

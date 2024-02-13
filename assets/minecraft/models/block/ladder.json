@@ -1,11 +1,12 @@
 {
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/oak_log",
-		"1": "block/ladder_wood",
-		"2": "block/ladder_seam",
-		"3": "block/ladder_corner",
-		"particle": "block/ladder"
+		"0": "blocks/log_oak",
+		"1": "blocks/ladder_wood",
+		"2": "blocks/ladder_seam",
+		"3": "blocks/ladder_corner",
+		"particle": "blocks/ladder"
 	},
 	"elements": [
 		{

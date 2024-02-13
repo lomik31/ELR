@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"2": "block/crafting_table_top",
-		"3": "block/oak_planks",
-		"4": "block/crafting_table_out",
-		"5": "block/crafting_table_front",
-		"6": "block/crafting_table_side",
-		"particle": "block/crafting_table_side"
+		"2": "blocks/crafting_table_top",
+		"3": "blocks/planks_oak",
+		"4": "blocks/crafting_table_out",
+		"5": "blocks/crafting_table_front",
+		"6": "blocks/crafting_table_side",
+		"particle": "blocks/crafting_table_side"
 	},
 	"elements": [
 		{

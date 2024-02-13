@@ -1,9 +1,10 @@
 {
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/jungle_door_bottom",
-		"1": "block/door_krep",
-		"particle": "block/jungle_door_bottom"
+		"0": "blocks/door_jungle_lower",
+		"1": "blocks/door_door_krep",
+		"particle": "blocks/door_jungle_lower"
 	},
 	"elements": [
 		{

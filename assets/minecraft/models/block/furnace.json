@@ -1,13 +1,14 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"0": "block/furnace_side",
-		"1": "block/furnace_front",
-		"2": "block/furnace_top",
-		"3": "block/furnace_inner",
-		"4": "block/furnace_slab_off",
-		"5": "block/coal_block",
-		"particle": "block/furnace_side"
+		"0": "blocks/furnace_side",
+		"1": "blocks/furnace_front_off",
+		"2": "blocks/furnace_top",
+		"3": "blocks/furnace_inner",
+		"4": "blocks/furnace_slab_off",
+		"5": "blocks/coal_block",
+		"particle": "blocks/furnace_side"
 	},
 	"elements": [
 		{
@@ -290,9 +291,8 @@
 	],
 	"display": {
 		"gui": {
-			"rotation": [ 30, 225, 0 ],
-            "translation": [ 0, 0, 0],
-            "scale":[ 0.625, 0.625, 0.625 ]
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
 		}
 	}
 }

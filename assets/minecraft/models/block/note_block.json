@@ -1,10 +1,11 @@
 {
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
 	"ambientocclusion": false,
-    "parent": "block/block",
 	"textures": {
-		"0": "block/notelock_side_pillar",
-		"1": "block/note_block",
-		"particle": "block/notelock_side_pillar"
+		"0": "blocks/noteblock_side_pillar",
+		"1": "blocks/noteblock",
+		"particle": "blocks/noteblock_side_pillar"
 	},
 	"elements": [
 		{

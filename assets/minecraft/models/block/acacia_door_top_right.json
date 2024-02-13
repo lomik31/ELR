@@ -1,10 +1,11 @@
 {
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/acacia_door_top",
-		"1": "block/door_krep",
-		"2": "block/acacia_door_krep",
-		"particle": "block/acacia_door_bottom"
+		"0": "blocks/door_acacia_upper",
+		"1": "blocks/door_door_krep",
+		"2": "blocks/door_acacia_door_krep",
+		"particle": "blocks/door_acacia_lower"
 	},
 	"elements": [
 		{

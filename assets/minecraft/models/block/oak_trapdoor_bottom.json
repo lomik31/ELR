@@ -1,9 +1,10 @@
 {
-	"textures": {
-		"particle": "block/oak_trapdoor",
-		"texture": "block/oak_trapdoor"
-	},
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
+	"textures": {
+		"particle": "blocks/trapdoor",
+		"texture": "blocks/trapdoor"
+	},
 	"elements": [
 		{
 			"from": [13, 0, 0],

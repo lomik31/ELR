@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"0": "block/bookshelf",
-		"1": "block/oak_planks",
-		"2": "block/bookshelf_kaima",
-		"3": "block/bookshelf_books",
-		"4": "block/bookshelf_inner",
-		"particle": "block/bookshelf"
+		"0": "blocks/bookshelf",
+		"1": "blocks/planks_oak",
+		"2": "blocks/bookshelf_kaima",
+		"3": "blocks/bookshelf_books",
+		"4": "blocks/bookshelf_inner",
+		"particle": "blocks/bookshelf"
 	},
 	"elements": [
 		{
