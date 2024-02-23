@@ -71,13 +71,13 @@
 
 # Скачать / Download
 #### Скачать самую последнюю версию ресурспака
-### Сам ресурспак
+### Сам ресурспак (ELR)
 - [1.19.4](https://github.com/lomik31/ELR/releases/download/1.19.4/ELR_1.19.4.zip)
 - [1.19.3](https://github.com/lomik31/ELR/releases/download/1.19.3/ELR_1.19.3.zip)
 - [1.19-1.19.2](https://github.com/lomik31/ELR/releases/download/1.19/ELR_1.19-1.19.2.zip)
 - [1.18.x](https://github.com/lomik31/ELR/releases/download/1.19/ELR_1.18.x.zip)
 
-### Только новые элементы интерфейса. Его можно использовать с вашим РП.
+### Только новые элементы интерфейса (GUI addon). Его можно использовать с вашим РП.
 - [1.19.4](https://github.com/lomik31/ELR/releases/download/1.19.4/ELR_GUI_addon_1.19.4.zip)
 - [1.19.3](https://github.com/lomik31/ELR/releases/download/1.19.3/ELR_GUI_addon_1.19.3.zip)
 - [1.19-1.19.2](https://github.com/lomik31/ELR/releases/download/1.19/ELR_addon_1.19-1.19.2.zip)
