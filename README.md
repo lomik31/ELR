@@ -22,19 +22,23 @@
 - Модели. Много моделей. Модели по сути делают все текстуры объемными. Теперь ваш Майнкрафт станет действительно 3D
 - Светящиеся текстуры. Адские грибочки, лоза, глаза утопленника, командные блоки, редстоун. Все это и многое другое теперь будет светиться! Выглядит круто особенно с шейдерами.
 - CTM (connected textures) позволяет вашим стеклам, стоящим рядом "склеиваться" в одно большое. В паке вы найдете ctm бревен, стекол, кактусов, булыжника и лозы (не Юрия)
-<details><summary><h2>Скриншоты</h2></summary>
-	<details><summary><h4>Блоки</h4></summary>
+<details><summary><b>Скриншоты</b></summary>
+	<details><summary><b>Блоки</b></summary>
 		<table><tr>
-			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.02.21.png"></td>
-			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.02.52.png"></td>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-28_21.20.44.png"></td>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.36.42.png"></td>
 		</tr></table>
 		<table><tr>
 			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.03.26.png"></td>
 			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.03.35.png"></td>
 		</tr></table>
 		<table><tr>
-			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.04.34.png"></td>
-			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.06.17.png"></td>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.39.58.png"></td>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.39.35.png"></td>
+		</tr></table>
+		<table><tr>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.39.14.png"></td>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.46.53.png"></td>
 		</tr></table>
 		<table><tr>
 			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.07.42.png"></td>
@@ -43,42 +47,45 @@
 		<table><tr>
 			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.12.18.png"></td>
 			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.16.09.png"></td>
-			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.17.29.png"></td>
 		</tr></table>
 		<table><tr>
-			<td><td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.18.55.png"></td>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.18.55.png"></td>
 			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.23.05.png"></td>
 		</tr></table>
+		<table><tr>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.28.10.png"></td>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.32.22.png"></td>
+		</tr></table>
+		<table><tr>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.22.32.png"></td>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.22.39.png"></td>
+		</tr></table>
+		<table><tr>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.38.16.png"></td>
+			<td><img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.43.06.png"></td>
+		</tr></table>
 	</details>
-	<details><summary><h4>Интерфейсы</h4></summary>
+	<details><summary><b>Интерфейсы</b></summary>
 		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.17.37.png">
-		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.17.46.png">
+		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-28_19.37.42.png">
 		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.18.02.png">
-		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.18.05.png">
-		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.19.20.png">
+		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-28_21.27.56.png">
+		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-28_21.31.08.png">
 		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.19.24.png">
 		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2022-11-22_11.19.37.png">
-		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/photo_2022-11-22%2013.37.10.jpeg">
+		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-28_21.32.08.png">
+		<img src="https://github.com/lomik31/ELR/blob/master/screenshots/2024-02-24_01.37.43.png">
 	</details>
 </details>
 
 ## Необходимые требования:
 - Майнкрафт на нужной версии
 - Optifine. Без него тоже работать будет, но будут недоступны многие фишки.
+- Альтернативно оптифайну связка модов: continuity, sodium, indium.
 
 ## Установка
-Для неумных поясняю. Скачиваете нужную версию по ссылкам ниже и кидаете архив в папку `resourcepacks`, находящуся в папке с игрой. И да, лень расписывать, где находится папка с игрой. Если настолько неумные, то загуглите.
+Для неумных поясняю. Скачиваете нужную версию (ссылка ниже) и кидаете архив в папку `resourcepacks`, находящуся в папке с игрой. И да, лень расписывать, где находится папка с игрой. Если настолько неумные, то загуглите.
 
-# Скачать / Download
-#### Скачать самую последнюю версию ресурспака
-### Сам ресурспак (ELR)
-- [1.19.4](https://github.com/lomik31/ELR/releases/download/1.19.4/ELR_1.19.4.zip)
-- [1.19.3](https://github.com/lomik31/ELR/releases/download/1.19.3/ELR_1.19.3.zip)
-- [1.19-1.19.2](https://github.com/lomik31/ELR/releases/download/1.19/ELR_1.19-1.19.2.zip)
-- [1.18.x](https://github.com/lomik31/ELR/releases/download/1.19/ELR_1.18.x.zip)
+### [Скачать / Download](https://github.com/lomik31/ELR/releases)
+(Файл с названием gui_addon содержит <b>ТОЛЬКО</b> новые элементы интерфейса. Полезно, если вы хотите использовать эти интерфейсы со своим ресурспаком (поверх). Скачивайте его только если знаете, что делаете. В большинстве случаев достаточно просто скачать `ELR_1.x.x.zip`)
 
-### Только новые элементы интерфейса (GUI addon). Его можно использовать с вашим РП.
-- [1.19.4](https://github.com/lomik31/ELR/releases/download/1.19.4/ELR_GUI_addon_1.19.4.zip)
-- [1.19.3](https://github.com/lomik31/ELR/releases/download/1.19.3/ELR_GUI_addon_1.19.3.zip)
-- [1.19-1.19.2](https://github.com/lomik31/ELR/releases/download/1.19/ELR_addon_1.19-1.19.2.zip)
-- [1.18.x](https://github.com/lomik31/ELR/releases/download/1.19/ELR_addon_1.18.x.zip)
