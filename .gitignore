@@ -1,3 +1,4 @@
-._*
 *.db
-README.md
+/assets/minecraft/*
+!/assets/minecraft/textures/gui
+!/assets/minecraft/texts
