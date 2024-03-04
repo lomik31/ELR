@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "builtin/entity",
 	"textures": {
-		"particle": "block/dark_oak_planks"
+		"particle": "blocks/planks_big_oak"
 	},
 	"gui_light": "front",
 	"overrides": [

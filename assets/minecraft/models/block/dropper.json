@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
-	"ambientocclusion": false,
+	"ambientocclusion": true,
 	"textures": {
 		"0": "blocks/furnace_side",
 		"1": "blocks/furnace_top",
