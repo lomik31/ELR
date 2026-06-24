@@ -1,4 +1,5 @@
 # FAITHLESS (formerly known as ELR)
+<img src="cover.png" width="300">
 
 Ресурспак для майнкрафт 64x64
 
