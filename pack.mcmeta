@@ -1,6 +1,37 @@
 {
   "pack": {
-    "pack_format": 34,
-    "description": "Extra lomik's resourcepack for Minecraft §21.21-1.21.1"
+    "pack_format": 46,
+    "description": [
+      {
+        "text": "ғᴀɪᴛʜʟᴇꜱꜱ ᴜɪ",
+        "color": "#93C4E2",
+        "bold": true
+      },
+      {
+        "text": " | ",
+        "color": "#9fa8b8",
+        "bold": false
+      },
+      {
+        "text": "ʙʏ ʟᴏᴍɪᴋ\n",
+        "color": "#7bb4f8",
+        "bold": false
+      },
+      {
+        "text": "minimal & clear gui ",
+        "color": "#F5F1EC",
+        "bold": false
+      },
+      {
+        "text": "•",
+        "color": "#9fa8b8",
+        "bold": false
+      },
+      {
+        "text": " 1.21.4",
+        "color": "#7bb4f8",
+        "bold": false
+      }
+    ]
   }
 }
